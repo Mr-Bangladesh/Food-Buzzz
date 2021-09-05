@@ -1,0 +1,6 @@
+1 Mutton Biryani 200
+2 Chicken Biryani 140
+3 Chicken Legs Biryani 220
+4 Chicken Tikka Biryany 220
+5 Vegitable Biryani 130
+6 Egg Biryani 130

@@ -1,0 +1,5 @@
+1 Vegetable Pizza 100
+2 Cheese Pizza 115
+3 Tomato Onion Pizza 115
+4 Mushroom Pizza 115
+5 Double Daker Pizza 150

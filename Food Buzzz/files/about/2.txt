@@ -1,0 +1,10 @@
+		About This Project
+
+  Name: Food Buzzz
+  Description:
+   * Showing the food items of this restaurant.
+   * Also showing the prices.
+   * User can order any drinks after ordering the foods.
+   * The authority can save the total sell of their restaurant.
+   * They can show their total sell at any time.
+   * The authority can add new food items and prices.

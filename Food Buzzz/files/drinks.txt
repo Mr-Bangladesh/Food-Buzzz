@@ -1,0 +1,3 @@
+1 Water (500ml) 15
+2 Drinks (250ml) 30
+3 Drinks (can) 60
